@@ -1,5 +1,6 @@
 <?php
 
-print('hello')
+print('hello');
+echo "Monu Kumar";
 
 ?>
